@@ -12,4 +12,4 @@ unity/plugin/criware_unity_plugin.unitypackage
 を実行してランタイムライブラリをインストールしてください。
 
 ADX2LE SDK Ver.2.06段階では動かない様子・・・   
-とりあえず、Levelmeterは動く様子です。
+とりあえず、RMS解析は動く様子です。
