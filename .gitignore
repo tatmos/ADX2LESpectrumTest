@@ -32,3 +32,34 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# ADX2LE
+Assets/Plugins/Android/libs/armeabi-v7a/libcri_ware_unity.so
+Assets/Plugins/Android/libs/armeabi-v7a/libcri_ware_unity.so.bininfo.json
+Assets/Plugins/Android/libs/armeabi-v7a/libcri_ware_unity.so.bininfo.json.meta
+Assets/Plugins/Android/libs/armeabi-v7a/libcri_ware_unity.so.meta
+Assets/Plugins/Android/libs/x86/libcri_ware_unity.so
+Assets/Plugins/Android/libs/x86/libcri_ware_unity.so.bininfo.json
+Assets/Plugins/Android/libs/x86/libcri_ware_unity.so.bininfo.json.meta
+Assets/Plugins/Android/libs/x86/libcri_ware_unity.so.meta
+Assets/Plugins/cri_ware_unity.bundle.bininfo.json
+Assets/Plugins/cri_ware_unity.bundle.bininfo.json.meta
+Assets/Plugins/cri_ware_unity.bundle.meta
+Assets/Plugins/cri_ware_unity.bundle/Contents.meta
+Assets/Plugins/cri_ware_unity.bundle/Contents/Info.plist
+Assets/Plugins/cri_ware_unity.bundle/Contents/Info.plist.meta
+Assets/Plugins/cri_ware_unity.bundle/Contents/MacOS.meta
+Assets/Plugins/cri_ware_unity.bundle/Contents/MacOS/cri_ware_unity
+Assets/Plugins/cri_ware_unity.bundle/Contents/MacOS/cri_ware_unity.meta
+Assets/Plugins/iOS/libcri_ware_unity.a
+Assets/Plugins/iOS/libcri_ware_unity.a.bininfo.json
+Assets/Plugins/iOS/libcri_ware_unity.a.bininfo.json.meta
+Assets/Plugins/iOS/libcri_ware_unity.a.meta
+Assets/Plugins/x86/cri_ware_unity.dll
+Assets/Plugins/x86/cri_ware_unity.dll.bininfo.json
+Assets/Plugins/x86/cri_ware_unity.dll.bininfo.json.meta
+Assets/Plugins/x86/cri_ware_unity.dll.meta
+Assets/Plugins/x86_64/cri_ware_unity.dll
+Assets/Plugins/x86_64/cri_ware_unity.dll.bininfo.json
+Assets/Plugins/x86_64/cri_ware_unity.dll.bininfo.json.meta
+Assets/Plugins/x86_64/cri_ware_unity.dll.meta
