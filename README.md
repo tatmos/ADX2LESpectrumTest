@@ -3,7 +3,8 @@ ADX2LESpectrumTest
 
 ADX2LE スペクトラムテスト  
 
-このサンプルにはADX2LEのランタイムライブラリ(.lib .aなど)は含まれていません。　　
+
+ADX2LEのランタイムライブラリ(.lib .aなど)は含まれていません。　　
 
 ADX2LEのダウンロード先　http://www.adx2le.com/download/index.html  
 
